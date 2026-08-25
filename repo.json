@@ -1,0 +1,8 @@
+{
+  "name": "Ngefilm Private Repository",
+  "description": "CloudStream repository pribadi",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/USERNAME/cloudstream-ngefilm-repo/builds/plugins.json"
+  ]
+}
